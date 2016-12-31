@@ -2,53 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76817c4b-ee93-40e1-8a5c-58f2c737ab97" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/crypt.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/autoload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/AUTHORS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/AES.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Base.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Blowfish.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/DES.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Hash.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/RC2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/RC4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Random.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Rijndael.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/TripleDES.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Twofish.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/File/ANSI.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/File/ASN1.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/File/ASN1/Element.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/File/X509.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Math/BigInteger.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Net/SCP.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Net/SFTP.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Net/SFTP/Stream.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Net/SSH1.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Net/SSH2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/System/SSH/Agent.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/System/SSH/Agent/Identity.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/openssl.cnf" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="crypt.iws" />
@@ -126,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -297,12 +251,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1483200517442</updated>
-      <workItem from="1483200518585" duration="8045000" />
+      <workItem from="1483200518585" duration="8087000" />
     </task>
+    <task id="LOCAL-00001" summary="removendo vendor e .idea">
+      <created>1483208636813</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1483208636813</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8045000" />
+    <option name="totallyTimeSpent" value="8087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -337,6 +299,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="removendo vendor e .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="removendo vendor e .idea" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -460,7 +428,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
           <folding />
         </state>
       </provider>
