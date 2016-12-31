@@ -1,0 +1,9 @@
+{
+    "name": "renatoneto/estudo-crypt",
+    "autoload": {
+        "files": ["Crypter.php"]
+    },
+    "require": {
+        "phpseclib/phpseclib": "^2.0"
+    }
+}
