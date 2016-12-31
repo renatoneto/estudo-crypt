@@ -1,4 +1,4 @@
 /keys/*
 composer.lock
 /vendor
-.idea/*
+/.idea
